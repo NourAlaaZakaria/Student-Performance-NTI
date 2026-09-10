@@ -4,8 +4,6 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://student-performance-nti-jjh47t35afjhuteksfmgzo.streamlit.app/)
 
-A beginner-friendly machine learning project that predicts a student's final grade (A-F) from their study habits...
-
 A beginner-friendly machine learning project that predicts a student's final grade (A-F) from their study habits — no advanced techniques, just the basics done cleanly.
 
 ## What it does
@@ -59,3 +57,11 @@ This opens a page in your browser where you can enter a student's info and click
 
 - **Class imbalance**: there are far fewer "F" grade students than "B" grade students in the data. This is why we look at more than just accuracy (precision, recall, F1) when judging the models.
 - **No fancy tricks used**: no manual hyperparameter tuning, no SMOTE, no advanced feature engineering — just clean, standard scikit-learn code that's easy to read and follow.
+
+## 👥 Team Members :
+
+- Ahemd Ibrahim
+- Karim Mohamed
+- Maria Fayek
+- Nour Alaa
+- Seif Eldein
