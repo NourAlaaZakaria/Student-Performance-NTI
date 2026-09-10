@@ -1,4 +1,10 @@
-# Student Performance Prediction (Simple Version)
+# Student Performance Prediction.
+
+🔗 **[Try the live app here](https://student-performance-nti-jjh47t35afjhuteksfmgzo.streamlit.app/)**
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://student-performance-nti-jjh47t35afjhuteksfmgzo.streamlit.app/)
+
+A beginner-friendly machine learning project that predicts a student's final grade (A-F) from their study habits...
 
 A beginner-friendly machine learning project that predicts a student's final grade (A-F) from their study habits — no advanced techniques, just the basics done cleanly.
 
